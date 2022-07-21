@@ -1,1 +1,1 @@
-# telegram_web_selenium
+# ajkerdeal-using-selenium-python
